@@ -12,3 +12,7 @@
 
 **Tráfico TLS/HTTPS (Cifrado):**
 ![Evidencia Día 2 TLS](Captura%20de%20pantalla%202026-09-22%20152101.png)
+
+- **Día 3 (23/09/2026 - 18%):** Aislamiento de tráfico de red mediante filtros por dirección IP de origen (`ip.src`), analizando las conexiones salientes desde el equipo.
+
+![Evidencia Día 3](Captura%20de%20pantalla%202026-09-23%20203018.png)
