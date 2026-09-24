@@ -16,3 +16,7 @@
 - **Día 3 (23/09/2026 - 18%):** Aislamiento de tráfico de red mediante filtros por dirección IP de origen (`ip.src`), analizando las conexiones salientes desde el equipo.
 
 ![Evidencia Día 3](Captura%20de%20pantalla%202026-09-23%20203018.png)
+
+- **Día 4 (24/09/2026 - 24%):** Filtrado avanzado de tráfico de red por número de puerto (`tcp.port == 443`) para aislar servicios y conexiones seguras.
+
+![Evidencia Día 4](Captura%20de%20pantalla%202026-09-24%20164319.png)
