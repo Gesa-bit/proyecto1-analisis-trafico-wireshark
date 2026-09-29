@@ -20,3 +20,7 @@
 - **Día 4 (24/09/2026 - 24%):** Filtrado avanzado de tráfico de red por número de puerto (`tcp.port == 443`) para aislar servicios y conexiones seguras.
 
 ![Evidencia Día 4](Captura%20de%20pantalla%202026-09-24%20164319.png)
+
+- **Día 5 (25/09/2026 - 30%):** Aplicación de operadores lógicos (`and`) para combinar filtros de dirección IP y puertos, optimizando el análisis detallado de tráfico.
+
+![Evidencia Día 5](Captura%20de%20pantalla%202026-09-29%20131535.png)
