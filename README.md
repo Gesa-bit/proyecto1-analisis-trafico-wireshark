@@ -31,4 +31,4 @@
 
 - **Día 7 (29/09/2026 - 42%):** Inspección profunda de las capas de red (Ethernet, IPv4 y TCP) utilizando el panel de detalles de paquetes en Wireshark.
 
-![Evidencia Día 7](Captura%20de%20pantalla%202026-09-29%20131535.png)
+![Evidencia Día 7](Captura%20de%20pantalla%202026-09-29%20132648.png)
