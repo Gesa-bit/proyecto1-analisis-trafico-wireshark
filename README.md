@@ -24,3 +24,7 @@
 - **Día 5 (25/09/2026 - 30%):** Aplicación de operadores lógicos (`and`) para combinar filtros de dirección IP y puertos, optimizando el análisis detallado de tráfico.
 
 ![Evidencia Día 5](Captura%20de%20pantalla%202026-09-29%20131535.png)
+
+- **Día 6 (29/09/2026 - 36%):** Uso de operadores de exclusión (`!=`) en Wireshark para descartar tráfico irrelevante (como el del router) y enfocar la investigación.
+
+![Evidencia Día 6](Captura%20de%20pantalla%202026-09-29%20132236.png)
