@@ -32,3 +32,7 @@
 - **Día 7 (29/09/2026 - 42%):** Inspección profunda de las capas de red (Ethernet, IPv4 y TCP) utilizando el panel de detalles de paquetes en Wireshark.
 
 ![Evidencia Día 7](Captura%20de%20pantalla%202026-09-29%20132648.png)
+
+- **Día 8 (30/09/2026 - 48%):** Seguimiento de flujos de red completos (`TCP Stream`) para reconstruir e inspeccionar conversaciones de datos entre el host y los servidores.
+
+![Evidencia Día 8](Captura%20de%20pantalla%202026-09-29%20133130.png)
