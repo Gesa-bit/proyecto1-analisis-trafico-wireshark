@@ -40,3 +40,7 @@
 - **Día 9 (29/09/2026 - 54%):** Análisis de estadísticas globales de red mediante el panel de conversaciones (`Conversations > IPv4`) para identificar volúmenes de tráfico y endpoints principales.
 
 ![Evidencia Día 9](Captura%20de%20pantalla%202026-09-29%20133509.png)
+
+- **Día 10 (29/09/2026 - 60%):** Identificación de hosts únicos mediante el panel de puntos finales (`Endpoints > IPv4`) para mapear dispositivos activos en la captura de tráfico.
+
+![Evidencia Día 10](Captura%20de%20pantalla%202026-09-29%20134051.png)
