@@ -36,3 +36,7 @@
 - **Día 8 (30/09/2026 - 48%):** Seguimiento de flujos de red completos (`TCP Stream`) para reconstruir e inspeccionar conversaciones de datos entre el host y los servidores.
 
 ![Evidencia Día 8](Captura%20de%20pantalla%202026-09-29%20133130.png)
+
+- **Día 9 (29/09/2026 - 54%):** Análisis de estadísticas globales de red mediante el panel de conversaciones (`Conversations > IPv4`) para identificar volúmenes de tráfico y endpoints principales.
+
+![Evidencia Día 9](Captura%20de%20pantalla%202026-09-29%20133509.png)
